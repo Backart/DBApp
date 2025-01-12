@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/SqlLiteBDApp_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp",
+	"CMAKE_SOURCE_DIR" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/SqlLiteBDApp_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/SqlLiteBDApp_autogen.dir/AutoRcc_resourcesDB_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resourcesDB" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resourcesDB.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.3/llvm-mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/SqlLiteBDApp_autogen.dir/AutoRcc_resourcesDB_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/resourcesDB.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
