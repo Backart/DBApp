@@ -1,9 +1,0 @@
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/SqlLiteBDApp.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/SqlLiteBDApp_autogen_timestamp_deps.dir
-C:/Users/monk/Documents/Projects/QT_Work/Education_QT/SqlLiteBDApp/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/SqlLiteBDApp_autogen.dir
